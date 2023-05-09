@@ -1,0 +1,22 @@
+.detail-specialty-container {
+  .description-spcialty {
+    background-color: white !important;
+    padding: 10px;
+    margin: 15px 0;
+
+    h1,
+    h2,
+    h3 {
+      font-size: 16px;
+      font-weight: 600;
+    }
+  }
+
+  .search-sp-doctor {
+    select {
+      height: 30px;
+      padding: 5px 8px;
+      border: none;
+    }
+  }
+}
